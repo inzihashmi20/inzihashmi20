@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 🚀 Eager to contribute to open-source projects and collaborate with like-minded developers.
 
 ### Connect with me:
-- [LinkedIn](www.linkedin.com/in/md-inzamam-hashmi-743551154)
+- [LinkedIn](https://www.linkedin.com/in/md-inzamam-hashmi-743551154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:inzamamhashmi20@gmail.com)
 - [Instagram](https://www.instagram.com/inzihashmi58/)
 
