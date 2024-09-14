@@ -13,4 +13,15 @@ Hi there! 👋 I’m Md. Inzamam Hashmi!
 inzihashmi20/inzihashmi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Personal Facts:
+
+💻 Aspiring Software Engineer,
+💡 Driven by self-improvement, committed to regular learning and hard work.
+🌱 Always exploring new technologies and coding techniques.
+🚀 Eager to contribute to open-source projects and collaborate with like-minded developers.
+
+### Connect with me:
+- [LinkedIn](www.linkedin.com/in/md-inzamam-hashmi-743551154)
+- [Email](mailto:inzamamhashmi20@gmail.com)
+- [Instagram](https://www.instagram.com/inzihashmi58/)
 
